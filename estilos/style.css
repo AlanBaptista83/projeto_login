@@ -15,7 +15,7 @@
 }
 
 body, html {
-    background-color: #5f2c82;
+    background-color: #665372c7;
     height: 100vh;
     width: 100vw;
 
@@ -48,7 +48,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/dados.jpg);
+    background: #9948cf url(../imagens/dados.jpg);
     background-size: cover;
     background-position: left bottom;
     height: 200px;
@@ -101,7 +101,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-13px);
+    transform: translateY(-18px);
 }
 
 div.campo > input:focus-within {
